@@ -1,6 +1,7 @@
 .body_2_container_1{
     position: relative;
     background: #434343;  
+    /* background: #434343;   */
     height: 700px;
     width: 100%;
 }
@@ -27,48 +28,53 @@
 /* background-color: rgba(255, 0, 0, 0.5);  */
 .body_2_container_1_c1{
     position: absolute;
-    background-color: rgba(44, 44, 44, 0.7);    
-    backdrop-filter: blur(3px); /* 번짐 효과 설정 */
+    /* background-color: rgba(252, 252, 252, 0.3);    */
+    background: linear-gradient(111deg, #434343, #5b5f64,#5b5f64, #5b5f64,#434343); 
+    /* backdrop-filter: blur(3px);  */
 
     height: 550px;
     width: 1000px;
     
     
-    top: 50%;
+    top: 52%;
     left: 50%;
     transform: translate(-50%, -50%);
 
     display: flex;
 
     border-radius: 20px;
-    /* border: 1px solid #fff; */
+    /* border: 1px solid #8a8a8a; */
+
+    box-shadow: 0 0px 55px rgba(0,0,0,.6),
+    0 0px 55px rgba(0,0,0,.6);
 }
 
 .body_2_container_1_c1_tag{
     position: absolute;
     /* background-color: blue; */
     width: 100px;
-    height: 500px;
+    height: 510px;
 
-    margin-top: 25px;
+    margin-top: 19px;
     margin-left: -50px;
 }
 
 .body_2_container_1_c1_tag div{
-    background-color: rgba(99, 99, 99, 0.7);    
+    /* background-color: rgba(194, 194, 194, 0.6);  */
+    background: linear-gradient(111deg, #434343, #5b5f64,#434343);   
     width: 65px;
     height: 65px;
     margin-top: 5px;
     margin-left: 17px;
     border: 1px solid #727272;
-    border-radius: 10px;
-    backdrop-filter: blur(3px); /* 번짐 효과 설정 */
+    border-radius: 15px;
+    backdrop-filter: blur(3px); 
     
     display: flex;
     justify-content: center;
     align-items: center;
     color: #ffffff;
-    font-weight: bold;
+    /* font-weight: bold; */
     font-size: 12px;
 }
 
@@ -120,7 +126,7 @@
 }
 
 .loadstar_container_stacks{
-    background-color: rgba(99, 99, 99, 0.7);    
+    background-color: rgba(45, 45, 45, 0.7);    
     height: 30px;
     width: 300px;
     display: flex;

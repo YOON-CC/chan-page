@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import "./body.css";
+import "./body_1.css";
 
 const Body = () => {
    

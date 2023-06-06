@@ -5,7 +5,9 @@ const Blocker = () => {
    
     return (
         <div className="loadstar_container">
-            <div className="loadstar_container_img"></div>
+            <div className="loadstar_container_img">
+                <img className="project_background" src={require("../image/blocker.png")}></img>
+            </div>
             <div className="loadstar_container_stacks">
                 <div>JAVASCRIPT</div>
                 <div>REACT-NATIVE</div>
