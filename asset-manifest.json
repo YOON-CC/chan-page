@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/chan-page/static/css/main.a8f6821f.css",
-    "main.js": "/chan-page/static/js/main.9bbe979c.js",
+    "main.css": "/chan-page/static/css/main.1555b3b7.css",
+    "main.js": "/chan-page/static/js/main.bf6f6f55.js",
     "static/js/787.736840f6.chunk.js": "/chan-page/static/js/787.736840f6.chunk.js",
-    "static/media/background.jpg": "/chan-page/static/media/background.c97ebbcb37485500c699.jpg",
     "static/media/amongus.png": "/chan-page/static/media/amongus.31af2d4fee6a5a5f8a2c.png",
+    "static/media/arduino.jpg": "/chan-page/static/media/arduino.d722081449c23ede6250.jpg",
     "static/media/profile.jpg": "/chan-page/static/media/profile.d1c1fa8eef1727d3868e.jpg",
+    "static/media/bssearch.png": "/chan-page/static/media/bssearch.ddc7cbd15ba47d7fa5ba.png",
     "static/media/loadstar.png": "/chan-page/static/media/loadstar.b0f516907c833de6c94c.png",
     "static/media/py.png": "/chan-page/static/media/py.b86d8135e1083bfb9b90.png",
+    "static/media/spacewar.png": "/chan-page/static/media/spacewar.102b6e2548672bd136f4.png",
+    "static/media/splash.png": "/chan-page/static/media/splash.2d502ccf2b01ba874012.png",
     "static/media/react.png": "/chan-page/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/blocker.png": "/chan-page/static/media/blocker.465701e9af4922a8fbaf.png",
     "static/media/rocket.png": "/chan-page/static/media/rocket.57bd7d5acda04eb8511d.png",
     "static/media/blog.png": "/chan-page/static/media/blog.c0f8eed163cb0673cd7b.png",
     "static/media/youtube.png": "/chan-page/static/media/youtube.27e456e0e855743fe0b1.png",
@@ -16,12 +20,12 @@
     "static/media/js.png": "/chan-page/static/media/js.3dfb665e058d08c99f28.png",
     "static/media/logo.svg": "/chan-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/chan-page/index.html",
-    "main.a8f6821f.css.map": "/chan-page/static/css/main.a8f6821f.css.map",
-    "main.9bbe979c.js.map": "/chan-page/static/js/main.9bbe979c.js.map",
+    "main.1555b3b7.css.map": "/chan-page/static/css/main.1555b3b7.css.map",
+    "main.bf6f6f55.js.map": "/chan-page/static/js/main.bf6f6f55.js.map",
     "787.736840f6.chunk.js.map": "/chan-page/static/js/787.736840f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8f6821f.css",
-    "static/js/main.9bbe979c.js"
+    "static/css/main.1555b3b7.css",
+    "static/js/main.bf6f6f55.js"
   ]
 }
