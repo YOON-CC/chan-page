@@ -21,7 +21,7 @@ const Body = () => {
             <div className="body_container_1_c2">
                 <div className="body_container_1_c2_title">
                     <div className="body_container_1_c2_title_1"><span className="title_point_1">성장</span>을 거부하지 않는</div>
-                    <div className="body_container_1_c2_title_2"><span className="title_point_2">프론트엔드</span> 개발자 조윤찬입니다.</div>
+                    <div className="body_container_1_c2_title_2"><span className="title_point_2">FRONT-END</span> 개발자 조윤찬입니다.</div>
                 </div>
                 <div className="body_container_1_c2_contents">
                     <div className="body_container_1_c2_contents_1">

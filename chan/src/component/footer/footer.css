@@ -1,0 +1,7 @@
+.footer_container{
+    position: relative;
+    /* background : linear-gradient(111deg, #00ff66, #03f7ff,#08ff63, #3690ff,#3f09ff); */
+    background: #777777;  
+    height: 200px;
+    width: 100%;
+}

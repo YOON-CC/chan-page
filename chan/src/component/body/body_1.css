@@ -16,7 +16,7 @@
     background: #434343;
     height: 300px;
     width: 300px;
-    margin-top: 120px;
+    margin-top: 160px;
     margin-left: 60px;
     padding: 10px;
     border-radius: 20px;
@@ -79,6 +79,7 @@
     /* background-color: rgb(21, 246, 133); */
     height: 100%;
     width: 70%;
+    margin-top: 50px;
 }
 
 .body_container_1_c2_title{
@@ -95,7 +96,7 @@
     height: 70px;
     width: 520px;
     margin-top: 70px;
-    margin-left: 190px;
+    margin-left: 210px;
 }
 .title_point_1{
     color : #434343;
@@ -105,7 +106,7 @@
 .body_container_1_c2_title_2{
     /* background-color: rgb(42, 84, 62); */
     height: 70px;
-    width: 700px;
+    width: 750px;
     margin-left: 80px;
 }
 .title_point_2{
