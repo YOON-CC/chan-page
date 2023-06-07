@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chan-page/static/css/main.1555b3b7.css",
-    "main.js": "/chan-page/static/js/main.bf6f6f55.js",
+    "main.css": "/chan-page/static/css/main.c841853d.css",
+    "main.js": "/chan-page/static/js/main.6b441b33.js",
     "static/js/787.736840f6.chunk.js": "/chan-page/static/js/787.736840f6.chunk.js",
     "static/media/amongus.png": "/chan-page/static/media/amongus.31af2d4fee6a5a5f8a2c.png",
     "static/media/arduino.jpg": "/chan-page/static/media/arduino.d722081449c23ede6250.jpg",
@@ -13,6 +13,7 @@
     "static/media/splash.png": "/chan-page/static/media/splash.2d502ccf2b01ba874012.png",
     "static/media/react.png": "/chan-page/static/media/react.20adfb35ae6a6e5817bf.png",
     "static/media/blocker.png": "/chan-page/static/media/blocker.465701e9af4922a8fbaf.png",
+    "static/media/notion.png": "/chan-page/static/media/notion.2d9ab85851817fdef956.png",
     "static/media/rocket.png": "/chan-page/static/media/rocket.57bd7d5acda04eb8511d.png",
     "static/media/blog.png": "/chan-page/static/media/blog.c0f8eed163cb0673cd7b.png",
     "static/media/youtube.png": "/chan-page/static/media/youtube.27e456e0e855743fe0b1.png",
@@ -20,12 +21,12 @@
     "static/media/js.png": "/chan-page/static/media/js.3dfb665e058d08c99f28.png",
     "static/media/logo.svg": "/chan-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/chan-page/index.html",
-    "main.1555b3b7.css.map": "/chan-page/static/css/main.1555b3b7.css.map",
-    "main.bf6f6f55.js.map": "/chan-page/static/js/main.bf6f6f55.js.map",
+    "main.c841853d.css.map": "/chan-page/static/css/main.c841853d.css.map",
+    "main.6b441b33.js.map": "/chan-page/static/js/main.6b441b33.js.map",
     "787.736840f6.chunk.js.map": "/chan-page/static/js/787.736840f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1555b3b7.css",
-    "static/js/main.bf6f6f55.js"
+    "static/css/main.c841853d.css",
+    "static/js/main.6b441b33.js"
   ]
 }
