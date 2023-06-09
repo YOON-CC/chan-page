@@ -37,6 +37,10 @@ const Body_3 = () => {
         }
     };
 
+    const handleyoutubeClick = () => {
+        window.open('https://www.youtube.com/channel/UCBHBPWENh2qA1-00eiqs9XA', '_blank');
+    };
+
 
 
     return (
@@ -65,7 +69,7 @@ const Body_3 = () => {
                         <div>개선하기 위해, 꾸준하게 영상을 촬영합니다.</div>
                         <div>나의 풀이를 복습하며 개선하는 방식으로 공부중입니다.</div>
                     </div>
-                    <div className='body_3_computerscience_container_btn'>GO TO SEE</div>
+                    <div className='body_3_computerscience_container_btn' onClick={handleyoutubeClick}>GO TO SEE</div>
                 </div>
             </div>
             

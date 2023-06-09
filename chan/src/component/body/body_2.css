@@ -63,7 +63,7 @@
 
 .body_2_container_1_c1_tag div{
     /* background-color: rgba(194, 194, 194, 0.6);  */
-    background: linear-gradient(111deg, #434343, #5b5f64,#434343);   
+    background: linear-gradient(111deg, #979696, #7d8692,#979696, 0.5);   
     width: 65px;
     height: 65px;
     margin-top: 5px;
@@ -78,6 +78,10 @@
     color: #ffffff;
     /* font-weight: bold; */
     font-size: 12px;
+}
+.body_2_container_1_c1_tag div:hover{
+    cursor: pointer;
+    background: linear-gradient(111deg, #686868, #404246,#686868);  
 }
 
 /*@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
@@ -104,15 +108,16 @@
 .loadstar_container_discription1{
     /* background-color: #ffffff; */
     height: 20px;
-    width: 600px;
+    width: 700px;
     display: flex;
     justify-content: center;
     align-items: center;
 
     color: #ffffff;
     font-weight: bold;
-    margin-left: 135px;
-    margin-top: 10px;
+    margin-left: 105px;
+    margin-top: 20px;
+    text-align: center;
 }
 .loadstar_container_discription2{
     /* background-color: #ffffff; */
@@ -159,6 +164,10 @@
     
     margin-left: 385px;
     margin-top: 20px;
+}
+.loadstar_container_search_container:hover{
+    cursor: pointer;
+    background-color: rgb(68, 68, 68);
 }
 .loadstar_container_search_container img{
     height: 17px;

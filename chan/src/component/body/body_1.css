@@ -199,6 +199,10 @@
     height: 50px;
     width: 51px;
     margin-left: 30px;
+    cursor: pointer;
+}
+.body_container_1_c2_contents_2_tag_content img:hover{
+    filter: brightness(10%);
 }
 /*3줄*/
 .body_container_1_c2_contents_3{

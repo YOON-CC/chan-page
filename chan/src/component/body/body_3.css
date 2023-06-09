@@ -30,6 +30,9 @@
 
     z-index: 1;
 }
+.body_3_computerscience_cover:hover{
+    cursor: pointer;
+}
 .body_3_computerscience_cover div{
     position: absolute;
     /* background-color: aqua; */
@@ -88,4 +91,9 @@
     font-size: 20px;
     font-weight: bold;
     color: #ffffff;
+}
+
+.body_3_computerscience_container_btn:hover{
+    cursor: pointer;
+    background : linear-gradient(111deg, #01b148, #00bdc3,#06c54c, #296dc0,#05b846);
 }

@@ -44,6 +44,11 @@
 
 }
 
+.body_4_board_list:hover{
+    cursor: pointer;
+    background: #212121;  
+}
+
 .body_4_board_list_img{
     position: absolute;
     /* background : linear-gradient(111deg, #00ff66, #03f7ff,#08ff63, #3690ff,#3f09ff); */
@@ -156,5 +161,5 @@
     border-radius: 10px;
     margin-top: 13px;
     box-shadow: 0 0px 30px rgb(157, 157, 157);
-
 }
+

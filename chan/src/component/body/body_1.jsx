@@ -2,7 +2,20 @@ import React, { useState } from 'react';
 import "./body_1.css";
 
 const Body = () => {
-   
+
+    const handlegithubClick = () => {
+        window.open('https://github.com/YOON-CC', '_blank');
+    };
+    const handleyoutubeClick = () => {
+        window.open('https://www.youtube.com/channel/UCBHBPWENh2qA1-00eiqs9XA', '_blank');
+    };
+    const handleblogClick = () => {
+        window.open('https://velog.io/@happycyc', '_blank');
+    };
+
+
+
+
     return (
         <div className="body_container_1">
             <div className="body_container_1_c1">
@@ -37,9 +50,9 @@ const Body = () => {
                     <div className="body_container_1_c2_contents_2">
                         <div className="body_container_1_c2_contents_2_tag_content">
                             <div className="body_container_1_c2_contents_2_tag_title">CHANNEL</div>
-                            <img src={require("../image/git.png")}></img>
-                            <img src={require("../image/youtube.png")}></img>
-                            <img src={require("../image/blog.png")}></img>
+                            <img src={require("../image/git.png")} onClick={handlegithubClick}></img>
+                            <img src={require("../image/youtube.png")} onClick={handleyoutubeClick}></img>
+                            <img src={require("../image/blog.png")} onClick={handleblogClick}></img>
                         </div>
                     </div>
                     
