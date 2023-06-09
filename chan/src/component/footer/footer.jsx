@@ -5,7 +5,7 @@ const Footer = () => {
 
     return (
         <div className="footer_container">
-            
+            DRAW YOUR DREAM!
         </div>
     )
 

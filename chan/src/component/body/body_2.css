@@ -1,8 +1,8 @@
 .body_2_container_1{
     position: relative;
+    /* background: #e31313;   */
     background: #434343;  
-    /* background: #434343;   */
-    height: 700px;
+    height: 800px;
     width: 100%;
 }
 
@@ -15,7 +15,7 @@
 .body_2_container_1_title{
     position: absolute;
     /* background-color: rgb(1, 255, 255); */
-    margin-top: 20px;
+    margin-top: 80px;
 
     font-size: 40px;
     font-weight: bold;

@@ -2,6 +2,14 @@
     position: relative;
     /* background : linear-gradient(111deg, #00ff66, #03f7ff,#08ff63, #3690ff,#3f09ff); */
     background: #777777;  
-    height: 200px;
+    height: 80px;
     width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
 }

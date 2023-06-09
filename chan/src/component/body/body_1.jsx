@@ -13,9 +13,6 @@ const Body = () => {
         window.open('https://velog.io/@happycyc', '_blank');
     };
 
-
-
-
     return (
         <div className="body_container_1">
             <div className="body_container_1_c1">
