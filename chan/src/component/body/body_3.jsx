@@ -36,12 +36,15 @@ const Body_3 = () => {
             setalgoBackgroundColor('linear-gradient(111deg, #142323, #142323    )');
         }
     };
+    const handlecsClick = () => {
+        window.open('https://www.notion.so/doongu/162de0d9a1724056b0411fd72e3bbd72?pvs=4', '_blank');
+    };
 
     const handleyoutubeClick = () => {
         window.open('https://www.youtube.com/channel/UCBHBPWENh2qA1-00eiqs9XA', '_blank');
     };
 
-
+    
 
     return (
         <div className="body_3_container_1">
@@ -56,7 +59,7 @@ const Body_3 = () => {
                             <div>확실하게 원리를 파악할 때까지 서로 공부를 합니다.</div>
                             <div>현재까지도 지속적으로 공부중이며 깊이있게 진행중입니다.</div>
                         </div>
-                        <div className='body_3_computerscience_container_btn'>GO TO SEE</div>
+                        <div className='body_3_computerscience_container_btn' onClick={handlecsClick}>GO TO SEE</div>
                     </div>
                 </div>
 

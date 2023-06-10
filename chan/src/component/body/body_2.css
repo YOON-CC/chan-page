@@ -67,7 +67,7 @@
 /* background-color: rgba(255, 0, 0, 0.5);  */
 .body_2_container_1_c1{
     position: absolute;
-    background-color: rgb(0, 0, 0, 0.1);
+    background-color: rgba(112, 15, 15, 0);
     backdrop-filter: blur(3px); 
 
     height: 550px;

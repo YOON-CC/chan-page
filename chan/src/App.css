@@ -1,6 +1,7 @@
 .App {
   background : linear-gradient(111deg, #00ff66, #03f7ff,#08ff63, #3690ff,#08ff63);
-  
+  /* background : linear-gradient(111deg,#08d152, #2c77d2, #00b548, #01c4ca,#09c54e, #3078cf,#0acd52); */
+
   min-height: 100vh;
   display: flex;
   justify-content: center;
