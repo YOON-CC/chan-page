@@ -6,11 +6,12 @@
     
     height: 600px;
     width: 100%;
+
 }
 
 .body_container_1_frame{
     position: absolute;
-    background : linear-gradient(111deg, #00ff66, #3c98d1,#08ff63);
+    background : linear-gradient(360deg, #00cd70, #2ee794,#c2ead8);
 
     height: 400px;
     width: 1000px;
@@ -22,7 +23,7 @@
 
     display: flex;
     border-radius: 20px;
-    box-shadow: 0px 0px 30px 0 rgb(0, 255, 55);
+    box-shadow: 0px 0px 10px 0 rgb(0, 255, 179);
 
 }
 .body_container_1_c1{
@@ -44,6 +45,7 @@
     /* border-radius: 20px; */
     border-radius: 30px;
     /* box-shadow: 5px 5px 10px 0 rgb(0, 0, 0); */
+    box-shadow: 0px 0px 10px 0 rgb(0, 0, 0);
 }
 
 .body_container_1_c1_img_container_img{
