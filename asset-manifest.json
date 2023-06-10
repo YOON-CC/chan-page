@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chan-page/static/css/main.761d95cb.css",
-    "main.js": "/chan-page/static/js/main.b321daa6.js",
+    "main.css": "/chan-page/static/css/main.0504149a.css",
+    "main.js": "/chan-page/static/js/main.d6ff4d0b.js",
     "static/js/787.736840f6.chunk.js": "/chan-page/static/js/787.736840f6.chunk.js",
     "static/media/amongus.png": "/chan-page/static/media/amongus.31af2d4fee6a5a5f8a2c.png",
     "static/media/arduino.jpg": "/chan-page/static/media/arduino.d722081449c23ede6250.jpg",
@@ -20,12 +20,12 @@
     "static/media/redux.png": "/chan-page/static/media/redux.f7649ef8ac6b6d06b271.png",
     "static/media/js.png": "/chan-page/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/chan-page/index.html",
-    "main.761d95cb.css.map": "/chan-page/static/css/main.761d95cb.css.map",
-    "main.b321daa6.js.map": "/chan-page/static/js/main.b321daa6.js.map",
+    "main.0504149a.css.map": "/chan-page/static/css/main.0504149a.css.map",
+    "main.d6ff4d0b.js.map": "/chan-page/static/js/main.d6ff4d0b.js.map",
     "787.736840f6.chunk.js.map": "/chan-page/static/js/787.736840f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.761d95cb.css",
-    "static/js/main.b321daa6.js"
+    "static/css/main.0504149a.css",
+    "static/js/main.d6ff4d0b.js"
   ]
 }
