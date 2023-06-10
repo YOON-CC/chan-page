@@ -22,7 +22,7 @@ const Splash = () => {
             </div>
             <div className="loadstar_container_search_container">
                 <img src={require("../image/rocket.png")}></img>
-                <div className="loadstar_container_search_container_text" onClick={handleprojectClick}>search</div>
+                <div className="loadstar_container_search_container_text" onClick={handleprojectClick}>github</div>
             </div>
 
         </div>

@@ -17,6 +17,7 @@ const Body_2 = () => {
         <div className="body_2_container_1">
             {/* <img className="body_2_background" src={require("../image/background.jpg")}></img> */}
             <div className="body_2_container_1_title">PROJECT</div>
+            <div className="body_2_container_2_title"><img className="body_2_background" src={require("../image/logo.png")}></img></div>
             <div className="body_2_container_1_c1">
                 <div className = "body_2_container_1_c1_tag">
                     <div onClick={function(){

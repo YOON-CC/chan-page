@@ -73,7 +73,7 @@ const Body_4 = () => {
                     <div className="body_4_board_list" onClick={handlevelogClick7}>
                         <div className="body_4_board_list_img"><img className="project_background" src={require("../image/awards.png")}></img></div>
                         <div className="body_4_board_list_text1">소외계층을 위한 AI</div>
-                        <div className="body_4_board_list_text2">활용 아이디어 공모전</div>
+                        <div className="body_4_board_list_text2">아이디어 공모전</div>
                         <div className="body_4_board_list_result">우수상</div>
                     </div>
                     <div className="body_4_board_list" onClick={handlevelogClick8}>
