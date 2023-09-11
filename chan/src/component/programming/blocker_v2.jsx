@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 const Arduino = () => {
 
     const handleprojectClick = () => {
-        window.open('https://github.com/YOON-CC/smart_stroller', '_blank');
+        window.open('https://github.com/YOON-CC/blocker_web', '_blank');
     };
 
     return (
