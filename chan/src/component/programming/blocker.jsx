@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 const Blocker = () => {
 
     const handleprojectClick = () => {
-        window.open('https://github.com/YOON-CC/blocker_ver2', '_blank');
+        window.open('https://github.com/nu-jey/blocker_ver2', '_blank');
     };
 
     return (

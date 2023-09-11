@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Loadstar from '../programming/loadstar';
 import Blocker from '../programming/blocker';
 import Amongus from '../programming/amongus';
-import Arduino from '../programming/arduino';
+import Blocker_v2 from '../programming/blocker_v2';
 import Spacewar from '../programming/spacewar';
 import Bssearch from '../programming/bssearch';
 import Splash from '../programming/splash';
@@ -21,16 +21,16 @@ const Body_2 = () => {
             <div className="body_2_container_1_c1">
                 <div className = "body_2_container_1_c1_tag">
                     <div onClick={function(){
-                        setPage(0);}}>loadstar
+                        setPage(0);}}>blocker_v2
                     </div>
                     <div onClick={function(){
-                        setPage(1);}}>blocker
+                        setPage(1);}}>loadstar
                     </div>
                     <div onClick={function(){
-                        setPage(2);}}>어몽어스3D
+                        setPage(2);}}>blocker
                     </div>
                     <div onClick={function(){
-                        setPage(3);}}>아두이노
+                        setPage(3);}}>어몽어스3D
                     </div>
                     <div onClick={function(){
                         setPage(4);}}>space-war
@@ -43,10 +43,10 @@ const Body_2 = () => {
                     </div>
                 </div>
 
-                {page === 0 &&  <Loadstar></Loadstar>} 
-                {page === 1 &&  <Blocker></Blocker>} 
-                {page === 2 &&  <Amongus></Amongus>} 
-                {page === 3 &&  <Arduino></Arduino>} 
+                {page === 0 &&  <Blocker_v2></Blocker_v2>}
+                {page === 1 &&  <Loadstar></Loadstar>} 
+                {page === 2 &&  <Blocker></Blocker>} 
+                {page === 3 &&  <Amongus></Amongus>} 
                 {page === 4 &&  <Spacewar></Spacewar>} 
                 {page === 5 &&  <Bssearch></Bssearch>} 
                 {page === 6 &&  <Splash></Splash>} 
