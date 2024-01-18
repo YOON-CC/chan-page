@@ -1,15 +1,31 @@
 {
   "files": {
-    "main.css": "/chan-page/static/css/main.e6c13ad2.css",
-    "main.js": "/chan-page/static/js/main.6c8e206c.js",
+    "main.css": "/chan-page/static/css/main.84e2f952.css",
+    "main.js": "/chan-page/static/js/main.2b825118.js",
     "static/js/787.736840f6.chunk.js": "/chan-page/static/js/787.736840f6.chunk.js",
+    "static/media/blocker_v2.png": "/chan-page/static/media/blocker_v2.0a13a9e5e253a3d52a79.png",
+    "static/media/amongus.png": "/chan-page/static/media/amongus.31af2d4fee6a5a5f8a2c.png",
+    "static/media/profile.jpg": "/chan-page/static/media/profile.d1c1fa8eef1727d3868e.jpg",
+    "static/media/bssearch.png": "/chan-page/static/media/bssearch.ddc7cbd15ba47d7fa5ba.png",
+    "static/media/loadstar.png": "/chan-page/static/media/loadstar.b0f516907c833de6c94c.png",
+    "static/media/py.png": "/chan-page/static/media/py.b86d8135e1083bfb9b90.png",
+    "static/media/spacewar.png": "/chan-page/static/media/spacewar.102b6e2548672bd136f4.png",
+    "static/media/splash.png": "/chan-page/static/media/splash.2d502ccf2b01ba874012.png",
+    "static/media/react.png": "/chan-page/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/blocker.png": "/chan-page/static/media/blocker.465701e9af4922a8fbaf.png",
+    "static/media/notion.png": "/chan-page/static/media/notion.2d9ab85851817fdef956.png",
+    "static/media/rocket.png": "/chan-page/static/media/rocket.57bd7d5acda04eb8511d.png",
+    "static/media/blog.png": "/chan-page/static/media/blog.c0f8eed163cb0673cd7b.png",
+    "static/media/youtube.png": "/chan-page/static/media/youtube.27e456e0e855743fe0b1.png",
+    "static/media/redux.png": "/chan-page/static/media/redux.f7649ef8ac6b6d06b271.png",
+    "static/media/js.png": "/chan-page/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/chan-page/index.html",
-    "main.e6c13ad2.css.map": "/chan-page/static/css/main.e6c13ad2.css.map",
-    "main.6c8e206c.js.map": "/chan-page/static/js/main.6c8e206c.js.map",
+    "main.84e2f952.css.map": "/chan-page/static/css/main.84e2f952.css.map",
+    "main.2b825118.js.map": "/chan-page/static/js/main.2b825118.js.map",
     "787.736840f6.chunk.js.map": "/chan-page/static/js/787.736840f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.6c8e206c.js"
+    "static/css/main.84e2f952.css",
+    "static/js/main.2b825118.js"
   ]
 }
